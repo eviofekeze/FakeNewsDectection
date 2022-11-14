@@ -1,2 +1,2 @@
 # FakeNewsDectection
-Fake News Detection using social feature
+Fake News Detection using semantic analysis and social network features
